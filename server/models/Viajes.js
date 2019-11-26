@@ -17,7 +17,7 @@ const Viaje = db.define('viajes', {
   imagen: {
     type: Sequelize.STRING
   },
-  descripción: {
+  descripcion: {
     type: Sequelize.STRING
   },
   disponibles: {
